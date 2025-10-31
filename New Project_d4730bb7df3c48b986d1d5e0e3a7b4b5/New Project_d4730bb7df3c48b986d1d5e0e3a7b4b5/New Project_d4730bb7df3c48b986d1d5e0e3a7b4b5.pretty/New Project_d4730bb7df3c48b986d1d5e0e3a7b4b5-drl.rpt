@@ -1,0 +1,24 @@
+Drill report for New Project_d4730bb7df3c48b986d1d5e0e3a7b4b5.kicad_pcb
+Created on 2025-10-20T19:48:31+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  TopLayer                  front
+    L2 :  BottomLayer               back
+
+
+Drill file 'New Project_d4730bb7df3c48b986d1d5e0e3a7b4b5-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,305mm  0,0120"  (46 holes)
+    T2  0,889mm  0,0350"  (26 holes)
+    T3  1,700mm  0,0669"  (2 holes)
+
+    Total plated holes count 74
+
+
+Drill file 'New Project_d4730bb7df3c48b986d1d5e0e3a7b4b5-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

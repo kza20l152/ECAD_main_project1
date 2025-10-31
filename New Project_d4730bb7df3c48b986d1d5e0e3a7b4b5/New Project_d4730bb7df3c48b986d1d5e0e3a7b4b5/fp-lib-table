@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "New Project_d4730bb7df3c48b986d1d5e0e3a7b4b5")(type "KiCad")(uri "$(KIPRJMOD)/New Project_d4730bb7df3c48b986d1d5e0e3a7b4b5.pretty")(options "")(descr ""))
+)
